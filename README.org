@@ -1,0 +1,10 @@
+* Freexit
+
+Here is a little exercise for myself to get used to LiveView and its Features.
+
+** The Project
+
+A little online form for the boardgame Dixit, I build durig my vacation.
+This version is meant to be installed on a server or within a network.
+
+I will ad instructions how to play and how to add images.
